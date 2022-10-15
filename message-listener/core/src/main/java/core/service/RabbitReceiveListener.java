@@ -1,7 +1,7 @@
-package service;
+package core.service;
 
 import api.RabbitReceiveService;
-import configuration.RabbitMQConfiguration;
+import core.configuration.RabbitMQConfiguration;
 import lombok.NonNull;
 import lombok.RequiredArgsConstructor;
 import org.springframework.amqp.rabbit.annotation.RabbitListener;

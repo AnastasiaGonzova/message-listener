@@ -1,4 +1,4 @@
-package service;
+package core.service;
 
 import api.RabbitReceiveService;
 import org.springframework.stereotype.Service;

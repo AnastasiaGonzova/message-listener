@@ -1,4 +1,4 @@
-package configuration;
+package core.configuration;
 
 import org.springframework.amqp.core.AmqpAdmin;
 import org.springframework.amqp.core.Queue;
